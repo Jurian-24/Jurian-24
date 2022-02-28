@@ -1,8 +1,3 @@
-
-<div style="text-align: center" >
-    <img src="./Raccoon-Face-Logo.svg" width="100px">
-</div>
-
 ## **Hi friends!** 👋🤖
 
 ![Visitors badge](https://visitor-badge.laobi.icu/badge?page_id=Jurian-24.visitor-badge&left_text=Jurian-24%20Page%20Visitors)
