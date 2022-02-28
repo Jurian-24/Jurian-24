@@ -36,9 +36,10 @@ Grafisch Lyceum Rotterdam🏫
 ![](https://img.shields.io/badge/bulma-white?style=for-the-badge&logo=bulma&logoColor=#)
 ![](https://img.shields.io/badge/node.js-313131?style=for-the-badge&logo=Node.Js&logoColor=#)
 ![](https://img.shields.io/badge/mysql-313131?style=for-the-badge&logo=MySQL&logoColor=orange)
-![](https://img.shields.io/badge/vue-313131?style=for-the-badge&logo=vue.js&logoColor=green)
-![](https://img.shields.io/badge/Xamarin-white?style=for-the-badge&logo=Xamarin&logoColor=008DD8)
 ![](https://img.shields.io/badge/Blender-white?style=for-the-badge&logo=Blender&logoColor=orange)
+![](https://img.shields.io/badge/vue-313131?style=for-the-badge&logo=vue.js&logoColor=green)
+![](https://img.shields.io/badge/Cs-white?style=for-the-badge&logo=csharp&logoColor=blue)
+![](https://img.shields.io/badge/Xamarin-white?style=for-the-badge&logo=Xamarin&logoColor=008DD8)
 ## Stats 📊
  
 <p align="center">
