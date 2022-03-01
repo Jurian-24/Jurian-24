@@ -46,7 +46,7 @@ Grafisch Lyceum Rotterdam🏫
     <b>Activity (Last 7 days)</b>
     <br/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jurian-24" alt="WakaTime" />
 </p>
 
 ## Reach out to me!📫
